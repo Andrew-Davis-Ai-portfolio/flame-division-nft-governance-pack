@@ -1,0 +1,39 @@
+{
+  "name": "Scroll — The Executive Lock‑In (v1)",
+  "description": "Canonical scroll from Flame Division archives. Outlines the operational command transition into verified leadership execution.",
+  "image": "ipfs://bafybeiexampleCID456scroll",
+  "external_url": "https://flamedivision.link/scrolls/executive-lockin",
+  "attributes": [
+    {
+      "trait_type": "Division",
+      "value": "Phase III → Real‑World Flame Integration"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Scroll"
+    },
+    {
+      "trait_type": "Version",
+      "value": "v1.0"
+    },
+    {
+      "trait_type": "Flame Law",
+      "value": "Authority isn’t granted; it’s engineered through mastery."
+    },
+    {
+      "trait_type": "Author",
+      "value": "Commander Flame"
+    },
+    {
+      "trait_type": "Issued",
+      "value": "2025-10-28"
+    }
+  ],
+  "rights": "CC‑BY‑ND",
+  "royalty_bps": 1000,
+  "original_cid": "bafybeiexampleCID456scrollmeta",
+  "current_cid": "bafybeiexampleCID456scrollmeta",
+  "version": "v1.0",
+  "checksum_sha256": "sha256:def5678examplechecksum",
+  "deprecation_pointer": ""
+}

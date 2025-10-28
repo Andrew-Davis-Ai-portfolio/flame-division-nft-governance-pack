@@ -1,0 +1,39 @@
+{
+  "name": "Cultural Work — Flame Law: Human × Machine Unity (Banner)",
+  "description": "Cinematic banner symbolizing ethical unity between human consciousness and artificial intelligence — black-and-gold manifesto style.",
+  "image": "ipfs://bafybeiexampleCID101art",
+  "external_url": "https://flamedivision.link/art/human-machine-unity",
+  "attributes": [
+    {
+      "trait_type": "Division",
+      "value": "Phase IV → Leadership & Deployment Command"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cultural Work"
+    },
+    {
+      "trait_type": "Version",
+      "value": "v1.0"
+    },
+    {
+      "trait_type": "Flame Law",
+      "value": "Where Ethics Meets Execution."
+    },
+    {
+      "trait_type": "Author",
+      "value": "Commander Flame"
+    },
+    {
+      "trait_type": "Issued",
+      "value": "2025-10-28"
+    }
+  ],
+  "rights": "All Rights Reserved",
+  "royalty_bps": 1000,
+  "original_cid": "bafybeiexampleCID101artmeta",
+  "current_cid": "bafybeiexampleCID101artmeta",
+  "version": "v1.0",
+  "checksum_sha256": "sha256:1011artchecksumexample",
+  "deprecation_pointer": ""
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Cultural Work \u2014 <REPLACE_art_title>",
+  "description": "Visual work (cover/banner/poster) from Flame Division. Replace fields before mint.",
+  "image": "<REPLACE_arweave_or_ipfs_image_cid_or_url>",
+  "animation_url": "",
+  "external_url": "https://<REPLACE_public_catalog_url>",
+  "attributes": [
+    {
+      "trait_type": "Division",
+      "value": "<REPLACE_division>"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Cultural Work"
+    },
+    {
+      "trait_type": "Version",
+      "value": "<REPLACE_version_e.g._v1>"
+    },
+    {
+      "trait_type": "Flame Law",
+      "value": "<REPLACE_law_text_or_title>"
+    },
+    {
+      "trait_type": "Author",
+      "value": "Commander Flame"
+    },
+    {
+      "trait_type": "Issued",
+      "value": "2025-10-28"
+    }
+  ],
+  "rights": "<REPLACE_rights_e.g._All_Rights_Reserved_or_CC-BY-ND>",
+  "royalty_bps": 1000,
+  "original_cid": "<REPLACE_original_master_cid>",
+  "current_cid": "<REPLACE_current_cid_if_updated_else_same_as_original>",
+  "version": "<REPLACE_version_string_e.g._v1>",
+  "checksum_sha256": "<REPLACE_sha256_of_master_asset>",
+  "deprecation_pointer": ""
+}

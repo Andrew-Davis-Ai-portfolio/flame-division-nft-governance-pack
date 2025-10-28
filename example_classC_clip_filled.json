@@ -1,0 +1,40 @@
+{
+  "name": "Proof Clip — Beacon Principle (Field Demo)",
+  "description": "15-second verification clip demonstrating the First Deployment Beacon protocol: record for proof, edit for teaching, publish for legacy.",
+  "image": "ipfs://bafybeiexampleCID789clipthumb",
+  "animation_url": "ipfs://bafybeiexampleCID789clipvideo",
+  "external_url": "https://flamedivision.link/proofs/beacon-principle",
+  "attributes": [
+    {
+      "trait_type": "Division",
+      "value": "Phase IV → Leadership & Deployment Command"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Proof Clip"
+    },
+    {
+      "trait_type": "Version",
+      "value": "v1.0"
+    },
+    {
+      "trait_type": "Flame Law",
+      "value": "Record for proof. Edit for teaching. Publish for legacy."
+    },
+    {
+      "trait_type": "Author",
+      "value": "Commander Flame"
+    },
+    {
+      "trait_type": "Issued",
+      "value": "2025-10-28"
+    }
+  ],
+  "rights": "Display allowed for owners; redistribution prohibited",
+  "royalty_bps": 750,
+  "original_cid": "bafybeiexampleCID789clipmeta",
+  "current_cid": "bafybeiexampleCID789clipmeta",
+  "version": "v1.0",
+  "checksum_sha256": "sha256:7890clipchecksumexample",
+  "deprecation_pointer": ""
+}

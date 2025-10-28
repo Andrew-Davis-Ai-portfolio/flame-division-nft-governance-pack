@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Flame Division NFT Metadata",
+  "type": "object",
+  "required": [
+    "name",
+    "description",
+    "image",
+    "attributes"
+  ],
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "type": "string"
+    },
+    "animation_url": {
+      "type": "string"
+    },
+    "external_url": {
+      "type": "string"
+    },
+    "attributes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "trait_type",
+          "value"
+        ],
+        "properties": {
+          "trait_type": {
+            "type": "string"
+          },
+          "value": {
+            "type": [
+              "string",
+              "number",
+              "boolean"
+            ]
+          }
+        },
+        "additionalProperties": false
+      }
+    },
+    "rights": {
+      "type": "string"
+    },
+    "royalty_bps": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 10000
+    },
+    "original_cid": {
+      "type": "string"
+    },
+    "current_cid": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "checksum_sha256": {
+      "type": "string"
+    },
+    "deprecation_pointer": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

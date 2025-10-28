@@ -1,0 +1,39 @@
+{
+  "name": "Flame Division — Authority Seal (Genesis)",
+  "description": "The original 1/1 authority artifact minted under the Flame Division command. Symbol of control, ethics, and verified authorship.",
+  "image": "ipfs://bafybeiexampleCID123seal",
+  "external_url": "https://flamedivision.link/seals/genesis",
+  "attributes": [
+    {
+      "trait_type": "Division",
+      "value": "Phase IV → Leadership & Deployment Command"
+    },
+    {
+      "trait_type": "Class",
+      "value": "Seal"
+    },
+    {
+      "trait_type": "Version",
+      "value": "v1.0"
+    },
+    {
+      "trait_type": "Flame Law",
+      "value": "Authority isn’t granted; it’s engineered through mastery."
+    },
+    {
+      "trait_type": "Author",
+      "value": "Commander Flame"
+    },
+    {
+      "trait_type": "Issued",
+      "value": "2025-10-28"
+    }
+  ],
+  "rights": "All Rights Reserved",
+  "royalty_bps": 750,
+  "original_cid": "bafybeiexampleCID123sealmeta",
+  "current_cid": "bafybeiexampleCID123sealmeta",
+  "version": "v1.0",
+  "checksum_sha256": "sha256:abc1234examplechecksum",
+  "deprecation_pointer": ""
+}
